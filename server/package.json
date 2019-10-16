@@ -61,7 +61,7 @@
     "onLanguage:ledger"
   ],
   "dependencies": {
-    "ledger-cli": "git://github.com/mariosangiorgio/node-ledger.git#register-output",
+    "ledger-cli": "git://github.com/b-fitzpatrick/node-ledger",
     "vscode-languageserver": "^3.2.0",
     "vscode-uri": "^1.0.1"
   },
